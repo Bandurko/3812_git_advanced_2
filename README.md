@@ -1,6 +1,5 @@
 # Описание нашего проекта
 
-### 3812_git
+### 3812_giti_advanced_2
 
-### __conflct - local change__
-conflct - remote change
+
